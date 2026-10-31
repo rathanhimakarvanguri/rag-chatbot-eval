@@ -1,0 +1,44 @@
+{"id": "q01", "type": "factual", "question": "How many days of paid annual leave do full-time employees get per year?", "answer": "24 days per calendar year, accrued at 2 days per month.", "gold": ["leave-policy#annual-leave"]}
+{"id": "q02", "type": "factual", "question": "How many unused annual leave days can be carried forward?", "answer": "Up to 10 days; anything above 10 lapses on 31 March.", "gold": ["leave-policy#annual-leave"]}
+{"id": "q03", "type": "factual", "question": "When is a medical certificate required for sick leave?", "answer": "For any sick leave longer than 2 consecutive days.", "gold": ["leave-policy#sick-leave"]}
+{"id": "q04", "type": "factual", "question": "How long is paid maternity leave?", "answer": "26 weeks of paid maternity leave.", "gold": ["leave-policy#parental-leave"]}
+{"id": "q05", "type": "paraphrase", "question": "My dad just became a father again through adoption. How much time off does an adoptive parent get?", "answer": "4 weeks of paid parental leave, taken within 6 months of the adoption.", "gold": ["leave-policy#parental-leave"]}
+{"id": "q06", "type": "factual", "question": "Which days are office days in the default hybrid schedule?", "answer": "Tuesdays, Wednesdays and Thursdays.", "gold": ["remote-work#hybrid-schedule"]}
+{"id": "q07", "type": "paraphrase", "question": "Can I spend a few weeks working from my hometown in Kerala?", "answer": "Yes, you can work from another city within India for up to 30 days per calendar year without special approval.", "gold": ["remote-work#working-from-another-city"]}
+{"id": "q08", "type": "factual", "question": "What approvals are needed to work from outside India?", "answer": "Prior approval from both HR and the Information Security team, limited to 15 days per year.", "gold": ["remote-work#working-from-another-city"]}
+{"id": "q09", "type": "factual", "question": "How much is the home office allowance for new employees?", "answer": "A one-time INR 15,000, with receipts submitted within 60 days of joining.", "gold": ["remote-work#home-office-allowance"]}
+{"id": "q10", "type": "factual", "question": "What are the core collaboration hours?", "answer": "11:00 to 16:00 IST.", "gold": ["remote-work#core-hours"]}
+{"id": "q11", "type": "factual", "question": "Within how many days must expenses be submitted?", "answer": "Within 30 days of being incurred; claims after 90 days are rejected.", "gold": ["expenses#submitting-expenses"]}
+{"id": "q12", "type": "factual", "question": "Up to what amount can a manager approve an expense claim?", "answer": "Up to INR 50,000; above that the finance controller must also approve.", "gold": ["expenses#approval-limits"]}
+{"id": "q13", "type": "paraphrase", "question": "I have a 10-hour flight to a client in Europe. Can I fly something better than economy?", "answer": "Yes, international flights longer than 8 hours may be booked in premium economy.", "gold": ["expenses#air-travel"]}
+{"id": "q14", "type": "factual", "question": "What is the hotel limit per night in metro cities?", "answer": "INR 7,000 per night in metro cities.", "gold": ["expenses#hotels-and-meals"]}
+{"id": "q15", "type": "factual", "question": "What is the daily meal allowance during travel?", "answer": "INR 1,500 per day.", "gold": ["expenses#hotels-and-meals"]}
+{"id": "q16", "type": "paraphrase", "question": "I drove my own car to a customer site. How am I paid back for fuel?", "answer": "Personal car use for work travel is reimbursed at INR 12 per kilometre.", "gold": ["expenses#local-commute"]}
+{"id": "q17", "type": "factual", "question": "Who can request a corporate card?", "answer": "Employees who travel more than 4 times a quarter.", "gold": ["expenses#corporate-card"]}
+{"id": "q18", "type": "factual", "question": "What is the minimum password length?", "answer": "At least 14 characters.", "gold": ["it-security#passwords-and-authentication"]}
+{"id": "q19", "type": "factual", "question": "How often are engineering laptops refreshed?", "answer": "Every 3 years for engineering roles (4 years for others).", "gold": ["it-security#company-devices"]}
+{"id": "q20", "type": "paraphrase", "question": "I left my work laptop in a taxi. What should I do and how quickly?", "answer": "Report it to the security team within 1 hour by emailing security@larkspur.example or calling the 24x7 helpdesk.", "gold": ["it-security#reporting-incidents"]}
+{"id": "q21", "type": "paraphrase", "question": "Can I paste customer personal details into ChatGPT to summarise them?", "answer": "No. Customer personal data is Restricted and must never be pasted into public AI tools.", "gold": ["it-security#data-classification"]}
+{"id": "q22", "type": "factual", "question": "Can personal laptops be used to access source code?", "answer": "No, personal laptops must never be used to access source code or customer data.", "gold": ["it-security#personal-devices"]}
+{"id": "q23", "type": "factual", "question": "How long is the probation period?", "answer": "6 months, extendable once by up to 3 months.", "gold": ["onboarding#probation"]}
+{"id": "q24", "type": "factual", "question": "When are salaries credited?", "answer": "On the last working day of each month.", "gold": ["onboarding#payroll-setup"]}
+{"id": "q25", "type": "factual", "question": "What is the notice period for a manager after confirmation?", "answer": "90 days for roles at manager level and above.", "gold": ["onboarding#notice-period"]}
+{"id": "q26", "type": "paraphrase", "question": "Who helps a new joiner settle in during their first three months?", "answer": "An onboarding buddy from a different team for the first 90 days, meeting at least weekly.", "gold": ["onboarding#buddy-programme"]}
+{"id": "q27", "type": "factual", "question": "What is the sum insured under group health insurance?", "answer": "INR 5 lakh per family per year, with an optional INR 10 lakh top-up.", "gold": ["benefits#health-insurance"]}
+{"id": "q28", "type": "factual", "question": "How much is the annual learning budget?", "answer": "INR 40,000 per year; unused budget does not roll over.", "gold": ["benefits#learning-budget"]}
+{"id": "q29", "type": "paraphrase", "question": "Will the company pay for my gym?", "answer": "Yes, gym or sports memberships are reimbursed up to INR 1,000 per month.", "gold": ["benefits#wellness"]}
+{"id": "q30", "type": "factual", "question": "How much is the referral bonus and when is it paid?", "answer": "INR 50,000, paid after the new hire completes 3 months.", "gold": ["benefits#referral-bonus"]}
+{"id": "q31", "type": "factual", "question": "In which months do performance reviews happen?", "answer": "April and October.", "gold": ["performance#review-cycle"]}
+{"id": "q32", "type": "factual", "question": "What is required to be considered for promotion?", "answer": "At least 12 months in the current level and an Exceeds Expectations or higher rating in the last review; promotions happen only in April.", "gold": ["performance#promotions"]}
+{"id": "q33", "type": "factual", "question": "When do annual salary revisions take effect?", "answer": "From 1 July.", "gold": ["performance#salary-revisions"]}
+{"id": "q34", "type": "factual", "question": "How long does a performance improvement plan last?", "answer": "60 days, with fortnightly check-ins.", "gold": ["performance#performance-improvement-plans"]}
+{"id": "q35", "type": "paraphrase", "question": "A vendor sent me a Diwali hamper worth about INR 5,000. Can I keep it?", "answer": "Gifts must be below INR 2,000. Declare it to compliance within 7 days; it is usually returned or donated.", "gold": ["code-of-conduct#gifts"]}
+{"id": "q36", "type": "factual", "question": "Is freelance work allowed?", "answer": "Only with written approval from the manager and HR, and never for a competitor.", "gold": ["code-of-conduct#conflicts-of-interest"]}
+{"id": "q37", "type": "unanswerable", "question": "How many days of paid paternity leave does a father get in Germany?", "answer": "", "gold": []}
+{"id": "q38", "type": "unanswerable", "question": "What is the company's stock option vesting schedule?", "answer": "", "gold": []}
+{"id": "q39", "type": "unanswerable", "question": "Does the company offer a shuttle bus from the railway station?", "answer": "", "gold": []}
+{"id": "q40", "type": "unanswerable", "question": "What is the CEO's email address?", "answer": "", "gold": []}
+{"id": "q41", "type": "unanswerable", "question": "How much is the annual bonus for an Exceptional rating?", "answer": "", "gold": []}
+{"id": "q42", "type": "unanswerable", "question": "Can I bring my dog to the office?", "answer": "", "gold": []}
+{"id": "q43", "type": "unanswerable", "question": "What is the leave encashment rate when I resign?", "answer": "", "gold": []}
+{"id": "q44", "type": "unanswerable", "question": "Which cloud provider does Larkspur use for production?", "answer": "", "gold": []}
